@@ -8,7 +8,9 @@ namespace multiroles
     {
         public void salario()
         {
-            //this.conexion();
+            //this.conexion();}
+
+
         }
     }
 }
